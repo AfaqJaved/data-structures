@@ -1,13 +1,15 @@
 Computer science encompasses a wide variety of data structures that are used for organizing and manipulating data efficiently. Here is a list of some common data structures:
 
-Arrays
+# Arrays
 
-Linked Lists
+# Linked Lists
 
-Singly Linked Lists
-Doubly Linked Lists
-Circular Linked Lists
-Stacks
+##Singly Linked Lists
+##Doubly Linked Lists
+##Circular Linked Lists
+
+
+#Stacks
 
 Queues
 
